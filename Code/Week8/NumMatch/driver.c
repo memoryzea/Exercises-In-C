@@ -8,7 +8,7 @@ int main(void)
    // 62725
    // 32795
    // 34448
-
+   
    // 8 8 Horiz
    assert(take(&b,  (pair){1,0,2,0}));
    // 2 2 Vertical 
